@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Electron builder output
+release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Misc
+bluerhythm_LOADED.txt
